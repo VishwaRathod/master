@@ -4,7 +4,7 @@ public class User {
 	private Integer userId;
 	private String firstName;
 	private String lastName;
-	private String Address;
+	private String Address;      
 	
 	public User(Integer userId, String firstName, String lastName, String address) {
 		super();
