@@ -45,4 +45,8 @@ public class DepartmentService {
 		}
 		return department;
 	}
+	
+	public void test() {
+		
+	}
 }

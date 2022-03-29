@@ -7,7 +7,7 @@ public class User {
 	private String Address;      
 	
 	public User(Integer userId, String firstName, String lastName, String address) {
-		super();
+		super();  
 		this.userId = userId;
 		this.firstName = firstName;
 		this.lastName = lastName;
